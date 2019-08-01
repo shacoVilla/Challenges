@@ -1,0 +1,12 @@
+C:\Users\BEDA\Source\repos\ReverseKigo\ReverseKigo\bin\Debug\ReverseKigo.exe.config
+C:\Users\BEDA\Source\repos\ReverseKigo\ReverseKigo\bin\Debug\ReverseKigo.exe
+C:\Users\BEDA\Source\repos\ReverseKigo\ReverseKigo\bin\Debug\ReverseKigo.pdb
+C:\Users\BEDA\Source\repos\ReverseKigo\ReverseKigo\obj\Debug\ReverseKigo.csproj.CoreCompileInputs.cache
+C:\Users\BEDA\Source\repos\ReverseKigo\ReverseKigo\obj\Debug\ReverseKigo.exe
+C:\Users\BEDA\Source\repos\ReverseKigo\ReverseKigo\obj\Debug\ReverseKigo.pdb
+C:\Users\BEDA\Source\repos\Kigo\ReverseKigo\ReverseKigo\bin\Debug\ReverseKigo.exe.config
+C:\Users\BEDA\Source\repos\Kigo\ReverseKigo\ReverseKigo\bin\Debug\ReverseKigo.exe
+C:\Users\BEDA\Source\repos\Kigo\ReverseKigo\ReverseKigo\bin\Debug\ReverseKigo.pdb
+C:\Users\BEDA\Source\repos\Kigo\ReverseKigo\ReverseKigo\obj\Debug\ReverseKigo.csproj.CoreCompileInputs.cache
+C:\Users\BEDA\Source\repos\Kigo\ReverseKigo\ReverseKigo\obj\Debug\ReverseKigo.exe
+C:\Users\BEDA\Source\repos\Kigo\ReverseKigo\ReverseKigo\obj\Debug\ReverseKigo.pdb
