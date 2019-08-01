@@ -15,6 +15,7 @@ namespace FizzBuzz
         /// The output to be processed.
         /// </summary>
         private static OutputFizzBuzz output;
+        private static int max = 20;
 
         /// <summary>
         /// Main execution method.
@@ -25,14 +26,14 @@ namespace FizzBuzz
             // Step1
             Console.WriteLine("Step 1 -------");
             output = new OutputBasic();
-            output.FizzBuzz(20);
+            output.FizzBuzz(max);
             output.PrintOutput();
             Console.WriteLine("--------------");
 
             // Step2
             Console.WriteLine("Step 2 -------");
             output = new OutputEnhanced();
-            output.FizzBuzz(20);
+            output.FizzBuzz(max);
             output.PrintOutput();
             Console.WriteLine("--------------");
 
@@ -42,6 +43,7 @@ namespace FizzBuzz
             output.FizzBuzz(20);
             output.PrintOutput();
             Console.WriteLine("--------------");
+
         }
     }
 }
