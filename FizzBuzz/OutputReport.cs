@@ -14,27 +14,27 @@ namespace FizzBuzz
         /// <summary>
         /// Gets or sets the word 'Fizz' od the output.
         /// </summary>
-        private int FizzCount { get; set; }
+        public int FizzCount { get; set; }
 
         /// <summary>
         /// Gets or sets the word 'Buzz' of the output.
         /// </summary>
-        private int BuzzCount { get; set; }
+        public int BuzzCount { get; set; }
 
         /// <summary>
         /// Gets or sets the word 'FizzBuzz' of the output.
         /// </summary>
-        private int FizzBuzzCount { get; set; }
+        public int FizzBuzzCount { get; set; }
 
         /// <summary>
         /// Gets or sets the word 'Lucky' of the output.
         /// </summary>
-        private int LuckyCount { get; set; }
+        public int LuckyCount { get; set; }
 
         /// <summary>
         /// Gets or sets the integer values of the output.
         /// </summary>
-        private int NumbersCount { get; set; }
+        public int NumbersCount { get; set; }
 
         /// <inheritdoc/>
         public override void FizzBuzz(int max)
