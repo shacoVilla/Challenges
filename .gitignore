@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/FizzBuzz/obj/Debug
+/FizzBuzzTest/obj/Debug
+/packages
+/ReverseKigo/obj/Debug
+/ReverseTest/obj/Debug
+/WordExtractor/obj/Debug
+/WordExtractorTests/obj/Debug
