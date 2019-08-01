@@ -1,0 +1,6 @@
+C:\Users\BEDA\Source\repos\WordExtractor\WordExtractor\bin\Debug\WordExtractor.exe.config
+C:\Users\BEDA\Source\repos\WordExtractor\WordExtractor\bin\Debug\WordExtractor.exe
+C:\Users\BEDA\Source\repos\WordExtractor\WordExtractor\bin\Debug\WordExtractor.pdb
+C:\Users\BEDA\Source\repos\WordExtractor\WordExtractor\obj\Debug\WordExtractor.csproj.CoreCompileInputs.cache
+C:\Users\BEDA\Source\repos\WordExtractor\WordExtractor\obj\Debug\WordExtractor.exe
+C:\Users\BEDA\Source\repos\WordExtractor\WordExtractor\obj\Debug\WordExtractor.pdb
