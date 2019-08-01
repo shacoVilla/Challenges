@@ -52,17 +52,6 @@ namespace WordExtractorTests
         }
 
         /// <summary>
-        /// Gets an exception when trying to obtain a words from a text defining a position greater than 1.
-        /// </summary>
-        [Fact]
-        public void GetWords_OneWord_PositionGreaterThanOne_Exception()
-        {
-            // Arrange
-            // Act
-            // Assert
-        }
-
-        /// <summary>
         /// Asserst
         /// </summary>
         /// <param name="input">The input to suffer the extraction.</param>
