@@ -1,0 +1,13 @@
+C:\Users\BEDA\Source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\BEDA\Source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\BEDA\Source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\BEDA\Source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\BEDA\Source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\BEDA\Source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\Users\BEDA\Source\repos\Kigo\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\BEDA\Source\repos\Kigo\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\BEDA\Source\repos\Kigo\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\BEDA\Source\repos\Kigo\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\BEDA\Source\repos\Kigo\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\BEDA\Source\repos\Kigo\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\BEDA\Source\repos\Kigo\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
