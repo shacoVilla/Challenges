@@ -34,22 +34,22 @@ namespace FizzBuzz
         public abstract void FizzBuzz(int max);
 
         /// <summary>
+        /// Adds a value to the output list.
+        /// </summary>
+        /// <param name="value">The value to be added.</param>
+        public void AddOutputValue(string value) => this.OutputValues.Add(value);
+
+        /// <summary>
         /// Gets the 'lucky' value if the input contains any character '3'. If not then, the original value will be returned.
         /// </summary>
         /// <param name="input">The input value to check for '3' characters.</param>
         /// <param name="originalValue">The original value as a result of the input check.</param>
         /// <returns>A <see cref="string"/> value.</returns>
-        protected string GetLuckyOverride(int input, string originalValue)
+        public string GetLuckyOverride(int input, string originalValue)
         {
             var isLuckyOverride = input.ToString().IndexOf("3") >= 0;
             return isLuckyOverride ? Enums.Lucky : originalValue;
         }
-
-        /// <summary>
-        /// Adds a value to the output list.
-        /// </summary>
-        /// <param name="value">The value to be added.</param>
-        protected void AddOutputValue(string value) => this.OutputValues.Add(value);
 
         /// <summary>
         /// Print out the added output values.
@@ -62,7 +62,7 @@ namespace FizzBuzz
         /// <param name="i">The number to be divided.</param>
         /// <param name="x">The divisor.</param>
         /// <returns>A <see cref="bool"/> value.</returns>
-        protected bool IsDivisible(int i, int x)
+        public bool IsDivisible(int i, int x)
         {
             if (i >= x)
             {
