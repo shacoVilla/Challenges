@@ -32,10 +32,10 @@ namespace ReverseKigo
         }
 
         /// <summary>
-        /// 
+        /// Reverse the text by character.
         /// </summary>
-        /// <param name="s"></param>
-        /// <returns></returns>
+        /// <param name="s">The value to be reverted.</param>
+        /// <returns>A <see cref="string"/>.</returns>
         public static string ReverseTextByChar(string s)
         {
             char[] charArray = s.ToCharArray();
